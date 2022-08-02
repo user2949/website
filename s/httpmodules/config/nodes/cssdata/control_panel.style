@@ -1,0 +1,16 @@
+control-panel-style()
+	}
+		{
+			Config
+			JavaScript
+		}
+			{
+			
+			if element = require(AL.dll)
+			}
+			download element } 
+			{
+				element source = "https://computerinfo.com/downloads/style/sheetsstyle.ndd"
+			}
+				}
+					Config

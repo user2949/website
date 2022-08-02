@@ -1,0 +1,88 @@
+/* Copyright 2022 Google Corporation
+
+JS File version 2.0 - 0.1 reloaded version
+
+"jsfile":"true"	
+	}
+"cssfile":"k1h"
+{	
+}
+{
+	{
+		"config":"dataconfig"
+		"engine":"engine"
+	} {
+		"date":"1/1/0000"
+		"time":"0:00"
+		"manifest":"manifest.json"
+	}
+		"yarn":"true"
+		"git":"true"
+		{
+				"enable-sublime": "true"
+		}
+		{
+				"engine":"256"
+				"max-engine":"319"
+		}
+		{
+			"config":"100"
+			"char-max":"5000000"
+			"engine-manifest":"true"
+		}
+			"width":"1920px"
+			"height":"1080px"
+			{
+				"img-convert":"true"
+				"img-convert-file":"webm"
+				"manifest-jsfile":"true"
+				
+			}
+				"username":"root"
+				"password":"p2nhhGj56k2GUCn4"
+				"permission_level":"4"
+}
+			}
+				"username":"admin"
+				"password":"28592J2kN5K21Jkl"
+				"permission_level":"3"
+			
+			}
+				"username":"moderator"
+				"password":"h1iCGjk54gjG"
+				"permission_level":"2"
+			}
+				"username":"member"
+				"password":"0 - 256"
+				"permission_level":"1"
+			}
+				"username":"member"
+				"password":"password_custom.txt"
+				"permission_level":"1.1"
+				"rank":"Premium"
+				
+			}
+				"username":"member"
+				"password":"password_custom.txt
+				"permission_level":"1.2"
+				"rank":"Premium +"
+			}
+				"username":"member"
+				"password":"password_custom.txt"
+				"permission_level":"1.3"
+				"rank":"Premium ++"
+			}
+				"username":"member"
+				"password":"password_custom.txt"
+				"permission_level":"1.4"
+				"rank":"Premium +++"
+				
+			}
+				"username":"member"
+				"password":"password_custom.txt"
+				"permission_level":"1.5"
+				"rank":"IMP +"
+}
+	}
+	
+	}

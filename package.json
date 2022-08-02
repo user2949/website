@@ -1,0 +1,13 @@
+{
+  "name": "htdocs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  
+  "scripts" : {
+	"golive": "lt --port 80"  
+  },
+  "dependencies": {
+    "localtunnel": "^2.0.2"
+  }
+}

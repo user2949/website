@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 1000px
+}
+
+.img-class5 {
+  width: 300px
+}
+
+.img-class4 {
+  width: 300px
+}
+
+.img-class3 {
+  width: 300px
+}
+
+.img-class2 {
+  width: 300px
+}
+
+.img-class1 {
+  width: 300px
+}
+
+.img-class0 {
+  width: 300px
+}
+
+.img-class_deadzone {
+  width: 300px
+}
+
+.img-class_habitable {
+  width: 300px
+}
+
+.img-class_neon {
+  width: 300px
+}
+
+.img-class_infinity {
+  width: 300px
+}
+body
+{
+  backround-color: #efefef;
+  font-family: sans-serif;
+}
+.contact-box
+{
+  width: 500px
+  backround-color: #fff;
+  box-shadow: 0 0 20px 0 #999;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%.-50%);
+  position: absolute;
+}

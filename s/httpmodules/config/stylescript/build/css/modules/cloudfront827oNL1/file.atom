@@ -1,0 +1,19 @@
+/* Copyright 2018 Atom Corporation
+
+#Configuration and Copyrights for all of the System Requirments of Data Engineering Services
+#When configuring if there is "!" then do not touch them or edit them at all costs they can be dangerous to edit
+#Contact your System Administrator
+
+#TRUE = Enabled
+#FALSE = Disabled
+
+#IP Address: 192.168.18.32 = TRUE
+#Default Port: 80 - 8080 = TRUE
+#Customized Port: 3306 - 3307 = TRUE
+#Administration: TRUE
+
+#(!) DO NOT EDIT THIS UNLESS TOLD TO BY YOUR SYSTEM ADMINISTRATOR
+
+#Atom Level: 4 = TRUE
+#Atom System: 8 = TRUE
+#Atom File Enabled: TRUE (!!!)
