@@ -1,0 +1,56 @@
+=============================================================================================================================================================================================================================================
+All Licence Reserved to the GNU 2.0 licence.
+
+Specs :
+
+CPU : Intel i7 2600 (Overclockable)
+LGA : 1155
+Max TDP : 95.0W
+Technology : 32nm
+Cores : 4
+Threads : 8
+Stepping : 7
+Model : A
+Insturctions : MMX, SSE, SSE2, SSE3, SSE4.1, SEE4.2, EM64T, VT-x, AES, AVX
+Default Clock Speed : 3.70GHz
+Maximum Clock Speed : 3.80 to 4.3GHz
+Chipset : Intel [Sandy Bridge]
+Southbridge : Intel [H61]
+LPCIO : ITE [IT8728]
+Motherboard : Gigabyte HA65M-UDH3-B3
+GPU : NVIDIA GTX 1070 [SLI]
+Board Manufacturer : ZOTAC International Ltd.
+Code Name : GP104-200
+Revision : A1
+Technology : 16nm
+Core : 607MHz
+Memory : 405Mhz
+Bus Width : 256 Bit
+Size : 8GB GDDR5 Memory
+Motherboard Brand : Award Software International Inc.
+Release Date : 03/31/2011
+GPU Interface : PCIe Express 2.0 x16 2.5GT/s Max 5.0GT/s
+RAM : 16GB DDR3-1066 overclockable to DDR3-1866
+FSB DRAM : 1:4
+CAS# Latency : 9 Docks
+PSU : 650W - Unknown
+Cooler : BEST COOLING - Unknown (7000RPM)
+Cooler 2 : Intel CPU Cooler (LGA 1155 2600RPM)
+Storage 1 : WDC WDS500G2BOA-00SM50 ATA Device
+Storage 2 : USB SanDisk 3.2Gen1 USB Device
+Storage 3 : NORELSYS 106X USB Device
+Storage 4 : WDC WD20EARS-00MVWBO ATA Device
+Internet Card : YES (WIFI Card)
+Encryption : AES-256
+Connection : Ethernet and WIFI
+Operating System : Windows 10 x64 
+ACPI : x64
+Ports (COM & LPT) : Communications Port (COM1)
+Software Devices : Microsoft Device Association Root Enumerator
+                   Microsoft GS Wavetable Synth
+		   Microsoft RRAS Root Enumerator
+Sound, Video and game controllers :
+1. Realtek High Definition Audio Device
+2. NVIDIA High Definition Audio
+3. NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+==============================================================================================================================================================================================================================================
